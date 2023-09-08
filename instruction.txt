@@ -1,0 +1,4 @@
+How to play the game:-
+-->Total 10 ques and 4 options of each question
+-->Select the correct answer
+-->After answering 10 question, result will be displayed
